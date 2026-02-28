@@ -18,7 +18,7 @@ This project builds a Machine Learning model to predict passenger survival on th
 - Python
 - Pandas, NumPy
 - scikit-learn
-- Jupyter Notebook
+- Google Colab
 
 ## Dataset
 - Kaggle Titanic Dataset
